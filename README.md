@@ -13,7 +13,13 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 1
-
+- https://formandaffect.com/
+- Through their twitter account.
+- Looks modern/swiss inspo. Use of large type. Some retro colours. 
+- Typical offscreen. Hamburger icon (attempt to differentiate it a bit)
+- On load logo animation. Fixed header scrolls into view. Project card interactive animation (lets user know its clickable)
+- Yeah, it's alright. Cool transitions and animations. Dig the whitespace.
+- Graphik typeface, letter spacing/tracking is way too tight. Bold face is too heavy.
 
 
 ---
